@@ -1,0 +1,16 @@
+.mobile_friendly {
+    background-color: #f4f8fb;
+}
+
+.screens {
+    background-color: #383f51;
+}
+
+.check{
+    display: inline-block;
+    width: 1.3rem;
+    height: 1.3rem;
+    background: #28a745;
+    border-radius: 50%;
+  }
+
