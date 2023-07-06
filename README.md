@@ -22,3 +22,7 @@ Just [click here](https://kgogina.github.io/bootstrap_project/#) to open the web
  - Bootstrap Framework
 
 Feel free to explore and provide feedback! 
+
+## Acknowledgments
+
+The project was created for learning purposes and does not represent a real company or offer real services. The images used in the project are for demonstration purposes only.
