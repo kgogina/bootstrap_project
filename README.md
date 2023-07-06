@@ -14,7 +14,7 @@ BootstrapZilla is a multipurpose e-commerce template built with Bootstrap 5. It 
 
 ## Getting Started
 
-[Just click](https://kgogina.github.io/bootstrap_project/#) here to open the webpage of this project. 
+Just [click here](https://kgogina.github.io/bootstrap_project/#) to open the webpage of this project. 
 
 ## Technologies Used
  - HTML
