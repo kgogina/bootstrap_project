@@ -4,6 +4,8 @@ BootstrapZilla is a multipurpose e-commerce template built with Bootstrap 5. It 
 
 ## Preview
 
+![Demo](preview_ss.png)
+
 ## Features
 
 - Bootstrap 5: The project is built using the latest version of Bootstrap, providing a solid foundation for responsive and modern web design.
